@@ -3,137 +3,164 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:173B76,100:7C3AED&text=Mohamed%20Fathallah&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20Systems%20That%20Scale&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mohamed Fathallah — Full-Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:173B76,100:7C3AED&text=Mohamed%20Fathallah&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mohamed Fathallah — Full-Stack Engineer" />
 
 <a href="https://linkedin.com/in/se-mohamed-fathallah">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:fathallahmohammedd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/MedFathallahEngineer">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Architecting+production-ready+applications.;Turning+complex+problems+into+clean+systems.;Java+%2B+Spring+Boot+%2B+React.;Engineering+for+scale%2C+not+just+the+demo." alt="Animated engineering tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+at+AI+Mobility+Solutions.;Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript.;Real-time+data+with+Kafka%2C+Redis+and+WebSocket.;Applied+machine+learning." alt="Animated engineering tagline" />
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=2563EB&label=PROFILE+VISITORS)
-![Focus](https://img.shields.io/badge/Focus-Production--grade%20software-7C3AED?style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=MedFathallahEngineer&style=flat&color=2563EB&label=PROFILE+VISITORS)
+![Focus](https://img.shields.io/badge/Focus-Production%20web%20applications-7C3AED?style=flat)
 ![Location](https://img.shields.io/badge/Location-Tunisia-0F766E?style=flat)
 
 </div>
 
 ---
 
-## `01` — Beyond writing code
+## `01` — About me
 
-I'm a **Full-Stack Software Engineer and Team Lead** based in Sfax, Tunisia. I build web applications end to end — from system architecture and secure APIs to responsive interfaces, data pipelines, deployment, and production monitoring.
+I'm a **Full-Stack Engineer** based in Sfax, Tunisia, with a master's-level degree (Bac+5) and close to three years building production web applications, including 10 months as Team Lead of a six-engineer team.
 
-My focus is the engineering behind the interface: maintainable architecture, predictable performance, secure access control, and systems that continue to work long after launch.
+I work with Java and Spring Boot on the back end and React and TypeScript on the front end, with hands-on experience in real-time data (Kafka, Redis, WebSocket) and applied machine learning.
 
-Currently, I lead a team of six engineers developing an enterprise business intelligence platform in the mobility sector.
+I'm involved across the full lifecycle, from specifications and estimation to testing, code quality, documentation and client demos, in Agile.
 
 ```text
-DESIGN  →  ARCHITECT  →  BUILD  →  TEST  →  DEPLOY  →  IMPROVE
+SPECIFY → BUILD → TEST → DEMO
 ```
-
-- **Backend:** Java, Spring Boot, secure REST APIs and distributed services
-- **Frontend:** React, TypeScript, data-rich interfaces and interactive dashboards
-- **Data:** PostgreSQL, MongoDB, Redis and analytical data models
-- **Delivery:** Docker, CI/CD, automated testing, monitoring and production support
-- **Leadership:** Technical coordination, code reviews, mentoring and delivery planning
 
 > I don't just want to make software work. I want to understand why it works, how it behaves under pressure, and how to keep it reliable.
 
 ---
 
-## `02` — What I'm building
+## `02` — Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📊 Full-Stack Engineer · AI Mobility Solutions (AIMS)
 
-### 📊 Enterprise BI Platform
+**Jan 2026 – Present · Sfax, Tunisia**
 
-**Mobility · Analytics · Real-time insights**
+Custom business intelligence platform for an enterprise client in the mobility sector. Leading a team of 6 engineers, in Agile.
 
-Building an enterprise platform that turns operational data into actionable insights.
+- Front end with React 19 / TypeScript, TanStack Router/Query, Zustand, Tailwind CSS and ApexCharts
+- REST APIs with Java / Spring Boot, secured with Spring Security / JWT and role-based access control
+- Data layer in PostgreSQL / MongoDB, with server-side pre-aggregations via Cube.js
+- CI/CD with GitHub Actions, SonarQube and Trivy, deployed with Docker behind Nginx on an OVH VPS
+- AI services (in progress): designing a LightGBM model served through Python / FastAPI, with MLflow / MinIO for model versioning and promotion
 
-- Secure APIs with Spring Boot and JWT
-- Interactive business intelligence dashboards
-- Automated CSV/PDF reporting
-- Event-driven and real-time integrations
-- CI/CD, security scanning and load testing
+### 🌍 Full-Stack Engineer · Tunisian Space Association (UDENE project)
 
-**Role:** Full-Stack Engineer & Team Lead
+**Jan 2024 – Dec 2025 · Sfax, Tunisia**
 
-</td>
-<td width="50%" valign="top">
+Geospatial web platform for a European Earth observation project (UN SDG 11), serving 200+ researchers, in an international Agile team across Türkiye and Serbia.
 
-### 🌍 UDENE — Earth Observation
-
-**Geospatial · Satellite data · Sustainability**
-
-Contributing to a European Earth observation initiative supporting more informed urban planning.
-
-- Interactive geospatial data exploration
-- Copernicus satellite imagery visualization
-- Node.js / Express backend services
-- Data-driven scenarios for urban development
-- Deployment and production troubleshooting
-
-**Focus:** Geospatial engineering and international collaboration
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Different domains. One engineering mindset: turn complex data and requirements into dependable software.*
-
-</div>
+- Main front-end contributor, with React / TypeScript, Redux Toolkit (RTK Query), React Router and Material UI
+- Designed and built the experiment feature end to end, front and back end
+- Integrated 9 Copernicus / Sentinel Hub WMS catalogues (32 layers)
+- Developed Node.js / Express / TypeScript services on MongoDB / Mongoose, with JWT / Passport authentication
 
 ---
 
-## `03` — My engineering toolkit
+## `03` — Highlights
+
+- 🛰️ **GPU-accelerated satellite index viewer (UDENE).** Interactive OpenLayers WebGL map rendering multi-band GeoTIFF imagery in the browser, with spectral indices (NDVI, NDWI, NDBI, NBR, EVI, SAVI) computed per pixel on the GPU. A recursive-descent parser in TypeScript, working with mathjs, turns index formulas stored in MongoDB into WebGL expressions, so new indices can be added without code changes.
+- 📄 **Automated reporting.** Built a reporting engine with scheduled CSV/PDF exports sent by email, replacing a manual process that took up to a full working day per report.
+- ⚡ **Real-time KPIs.** Connected Java and Python services with Kafka, added system-wide caching with Redis and pushed live KPIs to the interface over WebSocket. Read endpoints answer in 4–15 ms at the median and every page loads in under 0.55 s (production build, local measurements).
+- 🔌 **Partner data API.** Delivered an API for external partners: 3 partner endpoints and 12 admin endpoints, token authentication, per-client rate limits (HTTP 429 with Retry-After), revocation effective on the next call, call logging and a React admin console. Adds about 12 ms to a Cube query at the median, with 96.6% line coverage on the back end.
+
+---
+
+## `04` — What I work with
 
 <div align="center">
 
-### Backend & APIs
+### Back end
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,fastapi&theme=dark" alt="Java, Spring, Node.js, Express, Python and FastAPI" />
 
-### Frontend & UI
+![Spring Security](https://img.shields.io/badge/Spring%20Security-2563EB?style=flat)
+![JWT](https://img.shields.io/badge/JWT-2563EB?style=flat)
+![REST API design](https://img.shields.io/badge/REST%20API%20design-2563EB?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2563EB?style=flat)
+![Passport](https://img.shields.io/badge/Passport-2563EB?style=flat)
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind&theme=dark" alt="TypeScript, React, Next.js, Vite and Tailwind CSS" />
+### Front end
 
-### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,materialui,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Redux, Material UI and Tailwind CSS" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" alt="PostgreSQL, MongoDB, Redis and Kafka" />
+![React 18/19](https://img.shields.io/badge/React%2018%2F19-7C3AED?style=flat)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-7C3AED?style=flat)
+![TanStack Router/Query](https://img.shields.io/badge/TanStack%20Router%2FQuery-7C3AED?style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-7C3AED?style=flat)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-7C3AED?style=flat)
+![Recharts](https://img.shields.io/badge/Recharts-7C3AED?style=flat)
 
-### DevOps, Quality & Delivery
+### Geospatial
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,cloudflare,git,linux&theme=dark" alt="Docker, GitHub Actions, Nginx, Cloudflare, Git and Linux" />
+![OpenLayers (WebGL)](https://img.shields.io/badge/OpenLayers%20%28WebGL%29-0F766E?style=flat)
+![GeoTIFF](https://img.shields.io/badge/GeoTIFF-0F766E?style=flat)
+![WMS](https://img.shields.io/badge/WMS-0F766E?style=flat)
+![Copernicus / Sentinel Hub](https://img.shields.io/badge/Copernicus%20%2F%20Sentinel%20Hub-0F766E?style=flat)
+![proj4](https://img.shields.io/badge/proj4-0F766E?style=flat)
+![mathjs](https://img.shields.io/badge/mathjs-0F766E?style=flat)
+
+### Data / ML
+
+![LightGBM](https://img.shields.io/badge/LightGBM-173B76?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-173B76?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-173B76?style=flat)
+![MinIO](https://img.shields.io/badge/MinIO-173B76?style=flat)
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="PostgreSQL, MongoDB and Redis" />
+
+![Mongoose](https://img.shields.io/badge/Mongoose-2563EB?style=flat)
+![Cube.js](https://img.shields.io/badge/Cube.js-2563EB?style=flat)
+![Modelling](https://img.shields.io/badge/Modelling-2563EB?style=flat)
+![Aggregation](https://img.shields.io/badge/Aggregation-2563EB?style=flat)
+![Data delivery](https://img.shields.io/badge/Data%20delivery-2563EB?style=flat)
+
+### Testing & quality
+
+![Spring Boot Test](https://img.shields.io/badge/Spring%20Boot%20Test-7C3AED?style=flat)
+![Karate](https://img.shields.io/badge/Karate-7C3AED?style=flat)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-7C3AED?style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-7C3AED?style=flat)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-7C3AED?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-7C3AED?style=flat)
+![k6](https://img.shields.io/badge/k6-7C3AED?style=flat)
+![Zod](https://img.shields.io/badge/Zod-7C3AED?style=flat)
+![SonarQube](https://img.shields.io/badge/SonarQube-7C3AED?style=flat)
+![Trivy](https://img.shields.io/badge/Trivy-7C3AED?style=flat)
+![Code reviews](https://img.shields.io/badge/Code%20reviews-7C3AED?style=flat)
+
+### CI/CD & tools
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Nginx and Cloudflare" />
+
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0F766E?style=flat)
+![OVH VPS](https://img.shields.io/badge/OVH%20VPS-0F766E?style=flat)
+
+### Messaging & real time
+
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" />
+
+![WebSocket](https://img.shields.io/badge/WebSocket-173B76?style=flat)
 
 </div>
 
-| Area | Tools & practices |
-|---|---|
-| Architecture | Clean Architecture, modular design, REST API design |
-| Security | Spring Security, JWT, role-based access control |
-| Data & BI | Cube.js, analytical models, dashboarding, data aggregation |
-| Testing | JUnit, Spring Boot Test, Vitest, Testing Library, Playwright, k6 |
-| Quality | SonarQube, Trivy, code reviews, automated checks |
-| Delivery | Docker Compose, GitHub Actions, Nginx, VPS deployments |
-
 ---
 
-## `04` — How I think about engineering
+## `05` — How I think about engineering
 
 <details>
 <summary><b>🏗️ Architecture over shortcuts</b></summary>
@@ -167,7 +194,7 @@ I've collaborated daily with international teams across Tunisia, Türkiye and Se
 
 ---
 
-## `05` — A little more about me
+## `06` — A little more about me
 
 <div align="center">
 
@@ -175,7 +202,7 @@ I've collaborated daily with international teams across Tunisia, Türkiye and Se
 |:---:|:---:|:---:|
 | Arabic · Native | Software architecture | Full-stack roles |
 | French · C1 | Data-intensive systems | Technical leadership |
-| English · B2 | Geospatial technology & BI | Selective freelance work |
+| English · B2 | Geospatial technology & BI | |
 
 </div>
 
@@ -185,6 +212,10 @@ Engineer's Degree in Computer Science — International Institute of Technology,
 
 Preparatory Cycle — Faculté des Sciences de Sfax · 2018–2020
 
+**Download my CV**
+
+[English (PDF)](https://github.com/MedFathallahEngineer/MedFathallahEngineer/blob/main/cv/Mohamed_Fathallah_CV_EN.pdf) · [Français (PDF)](https://github.com/MedFathallahEngineer/MedFathallahEngineer/blob/main/cv/Mohamed_Fathallah_CV_FR.pdf)
+
 ---
 
 <div align="center">
@@ -193,9 +224,6 @@ Preparatory Cycle — Faculté des Sciences de Sfax · 2018–2020
 
 I'm interested in teams that value thoughtful engineering, ownership and software that solves real problems.
 
-<a href="mailto:fathallahmohammedd@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-2563EB?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact me"/>
-</a>
 <a href="https://linkedin.com/in/se-mohamed-fathallah">
   <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
